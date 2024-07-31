@@ -7,6 +7,6 @@
 
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinmcCastro=compact)](https://github.com/CollinmcCastro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinmcCastro&layout=compact)](https://github.com/CollinmcCastro)
 ## 🔧 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
