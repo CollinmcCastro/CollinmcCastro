@@ -1,6 +1,6 @@
 ## Hi, I'm Collin!
 
-- 🔭 I’m currently working at the Headstarter AI Fellowship Program
+- 🔭 I’m currently a Senior at Moravian University
 - 🌱 I’m currently learning ReactJS, NextJS, CSS, HTML
 - 📫 How to reach me: Collinmcc04@gmail.com
 - 😄 Pronouns: He/Him
